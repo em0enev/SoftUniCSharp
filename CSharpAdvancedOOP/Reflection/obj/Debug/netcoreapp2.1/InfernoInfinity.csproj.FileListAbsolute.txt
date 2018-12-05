@@ -1,0 +1,11 @@
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.deps.json
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.runtimeconfig.json
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.runtimeconfig.dev.json
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.dll
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.pdb
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.csprojAssemblyReference.cache
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.AssemblyInfo.cs
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.dll
+C:\Users\emile\source\repos\ReflectionResolvingProblems\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.pdb
