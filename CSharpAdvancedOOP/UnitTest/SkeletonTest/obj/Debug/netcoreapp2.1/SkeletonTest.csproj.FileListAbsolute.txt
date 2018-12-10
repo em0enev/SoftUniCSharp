@@ -1,0 +1,17 @@
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\SkeletonTest.deps.json
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\SkeletonTest.dll
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.csprojAssemblyReference.cache
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.AssemblyInfo.cs
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\SkeletonTest.runtimeconfig.json
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\SkeletonTest.runtimeconfig.dev.json
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\SkeletonTest.pdb
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\Skeleton.dll
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\bin\Debug\netcoreapp2.1\Skeleton.pdb
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.csproj.CopyComplete
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.dll
+C:\Users\emile\Desktop\UnitTesting\SkeletonTest\obj\Debug\netcoreapp2.1\SkeletonTest.pdb

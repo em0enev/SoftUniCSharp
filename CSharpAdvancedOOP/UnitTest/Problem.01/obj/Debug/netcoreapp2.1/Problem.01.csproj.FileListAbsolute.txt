@@ -1,0 +1,11 @@
+C:\Users\emile\Desktop\UnitTesting\Problem.01\bin\Debug\netcoreapp2.1\Problem.01.deps.json
+C:\Users\emile\Desktop\UnitTesting\Problem.01\bin\Debug\netcoreapp2.1\Problem.01.runtimeconfig.json
+C:\Users\emile\Desktop\UnitTesting\Problem.01\bin\Debug\netcoreapp2.1\Problem.01.runtimeconfig.dev.json
+C:\Users\emile\Desktop\UnitTesting\Problem.01\bin\Debug\netcoreapp2.1\Problem.01.dll
+C:\Users\emile\Desktop\UnitTesting\Problem.01\bin\Debug\netcoreapp2.1\Problem.01.pdb
+C:\Users\emile\Desktop\UnitTesting\Problem.01\obj\Debug\netcoreapp2.1\Problem.01.csprojAssemblyReference.cache
+C:\Users\emile\Desktop\UnitTesting\Problem.01\obj\Debug\netcoreapp2.1\Problem.01.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\UnitTesting\Problem.01\obj\Debug\netcoreapp2.1\Problem.01.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\UnitTesting\Problem.01\obj\Debug\netcoreapp2.1\Problem.01.AssemblyInfo.cs
+C:\Users\emile\Desktop\UnitTesting\Problem.01\obj\Debug\netcoreapp2.1\Problem.01.dll
+C:\Users\emile\Desktop\UnitTesting\Problem.01\obj\Debug\netcoreapp2.1\Problem.01.pdb
